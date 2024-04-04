@@ -62,4 +62,4 @@ def combine_geojson_files(directory_path):
     print(f"Combined GeoJSON file created with {len(region_geojson['features'])} features.")
 
 # Replace 'path_to_your_geojson_files' with the path to the directory containing your GeoJSON files
-combine_geojson_files('/mnt/d/ronnie/Projects/geodata-br/geojson')
+combine_geojson_files('.')
