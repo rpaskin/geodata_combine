@@ -4,6 +4,8 @@ Geodata Combine
 
 Script and data example for combining several geojson files into one.
 
+Just put all your geodata json files in one directory, cd to it, and run the python3 combine.py script.
+
 License
 -------
 Creative Commons [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) - Public Domain. See file [LICENSE.md](LICENSE.md)
